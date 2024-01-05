@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaoBaoUnion</string>
+    <string name="bottombar_home">首页</string>
+    <string name="bottombar_red_packet">特惠</string>
+    <string name="bottombar_select">精选</string>
+    <string name="bottombar_search">搜索</string>
+</resources>

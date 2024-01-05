@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/bottombar_home" android:icon="@mipmap/home_normal" android:id="@+id/bottombar_home"/>
+    <item android:title="@string/bottombar_select" android:icon="@mipmap/select_normal" android:id="@+id/bottombar_select"/>
+    <item android:title="@string/bottombar_red_packet" android:icon="@mipmap/red_packet_normal" android:id="@+id/bottombar_red_packet"/>
+    <item android:title="@string/bottombar_search" android:icon="@mipmap/search" android:id="@+id/bottombar_search"/>
+</menu>
